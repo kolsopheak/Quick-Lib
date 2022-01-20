@@ -1,0 +1,11 @@
+D:\INV\Quick-Project\Quick.Lib\bin\Debug\net5.0\Quick.Lib.deps.json
+D:\INV\Quick-Project\Quick.Lib\bin\Debug\net5.0\Quick.Lib.dll
+D:\INV\Quick-Project\Quick.Lib\bin\Debug\net5.0\ref\Quick.Lib.dll
+D:\INV\Quick-Project\Quick.Lib\bin\Debug\net5.0\Quick.Lib.pdb
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\Quick.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\Quick.Lib.AssemblyInfoInputs.cache
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\Quick.Lib.AssemblyInfo.cs
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\Quick.Lib.csproj.CoreCompileInputs.cache
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\Quick.Lib.dll
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\ref\Quick.Lib.dll
+D:\INV\Quick-Project\Quick.Lib\obj\Debug\net5.0\Quick.Lib.pdb

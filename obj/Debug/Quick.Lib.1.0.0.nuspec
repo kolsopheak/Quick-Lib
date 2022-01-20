@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Quick.Lib</id>
+    <version>1.0.0</version>
+    <authors>QuickCode</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\INV\Quick-Project\Quick.Lib\bin\Debug\net5.0\Quick.Lib.dll" target="lib\net5.0\Quick.Lib.dll" />
+  </files>
+</package>
