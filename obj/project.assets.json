@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\INV\\Quick-Project\\Quick.Lib\\Quick.Lib.csproj",
+      "projectUniqueName": "D:\\My Inv\\Quick-Lib\\Quick.Lib.csproj",
       "projectName": "Quick.Lib",
-      "projectPath": "D:\\INV\\Quick-Project\\Quick.Lib\\Quick.Lib.csproj",
+      "projectPath": "D:\\My Inv\\Quick-Lib\\Quick.Lib.csproj",
       "packagesPath": "C:\\Users\\Corarl\\.nuget\\packages\\",
-      "outputPath": "D:\\INV\\Quick-Project\\Quick.Lib\\obj\\",
+      "outputPath": "D:\\My Inv\\Quick-Lib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
